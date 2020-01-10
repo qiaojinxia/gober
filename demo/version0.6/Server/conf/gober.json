@@ -1,0 +1,8 @@
+{
+  "Name":"gober sample demon",
+  "Host": "127.0.0.1",
+  "TcpPort":8999,
+  "MaxConn": 512,
+  "WorkPoolSize": 10,
+  "MaxWorkTaskLen": 1024
+}
